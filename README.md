@@ -1,6 +1,7 @@
 # fb11305201
 
 A new Flutter project.
+注意: 請各位同學自行建立firebase_options.dart
 
 ## Getting Started
 
